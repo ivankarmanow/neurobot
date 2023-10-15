@@ -4,10 +4,10 @@ telegram itis_community_diary_bot v 0.0.1
 
 1. имеет 4 команды /start(помощь) /task /schedule /today
 2. Умеет записывать задачи в базу данных (пока json файл).
-    /task
+    /task\n
     ваша_задача
 3. Умеет показывать задачи 
-    /schedule
+    /schedule\n
     /today
 4. Поддерживает асинхронность (asyncio, aiogram)
 
